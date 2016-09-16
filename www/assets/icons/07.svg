@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="29.0562mm" height="25.4243mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 702 614"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#373435;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2870250608096">
+   <path class="fil0" d="M669 614l-636 0c-18,0 -33,-14 -33,-33l0 -438c0,-19 15,-33 33,-33l11 0 0 22 -11 0c-6,0 -11,5 -11,11l0 438c0,6 5,11 11,11l636 0c6,0 11,-5 11,-11l0 -438c0,-6 -5,-11 -11,-11l-182 0 -65 -110 -142 0 -29 49 -19 -11 36 -60 166 0 66 110 169 0c18,0 33,14 33,33l0 438c0,19 -15,33 -33,33z"/>
+   <path class="fil0" d="M88 110l109 0 0 -22 -109 0 0 22zm131 22l-153 0 0 -66 153 0 0 66z"/>
+   <polygon class="fil0" points="296,66 406,66 406,44 296,44 "/>
+   <path class="fil0" d="M351 176c-97,0 -175,78 -175,175 0,97 78,176 175,176 97,0 176,-79 176,-176 0,-97 -79,-175 -176,-175zm0 372c-109,0 -197,-88 -197,-197 0,-109 88,-197 197,-197 109,0 197,88 197,197 0,109 -88,197 -197,197z"/>
+   <polygon class="fil0" points="11,263 186,263 186,241 11,241 "/>
+   <polygon class="fil0" points="516,263 691,263 691,241 516,241 "/>
+   <polygon class="fil0" points="11,461 186,461 186,439 11,439 "/>
+   <polygon class="fil0" points="516,461 691,461 691,439 516,439 "/>
+   <path class="fil0" d="M351 219c-73,0 -132,59 -132,132 0,73 59,132 132,132 73,0 132,-59 132,-132 0,-73 -59,-132 -132,-132zm0 286c-85,0 -154,-69 -154,-154 0,-85 69,-154 154,-154 85,0 154,69 154,154 0,85 -69,154 -154,154z"/>
+   <path class="fil0" d="M263 351l-22 0c0,-60 50,-110 110,-110l0 22c-48,0 -88,40 -88,88z"/>
+   <polygon class="fil0" points="66,176 88,176 88,154 66,154 "/>
+   <polygon class="fil0" points="570,176 658,176 658,154 570,154 "/>
+   <polygon class="fil0" points="44,362 66,362 66,340 44,340 "/>
+   <polygon class="fil0" points="88,362 110,362 110,340 88,340 "/>
+   <polygon class="fil0" points="592,362 614,362 614,340 592,340 "/>
+   <polygon class="fil0" points="636,362 658,362 658,340 636,340 "/>
+   <path class="fil0" d="M548 110l88 0 -88 0zm99 22l-110 0c-6,0 -10,-5 -10,-11l0 -22c0,-6 4,-11 10,-11l110 0c6,0 11,5 11,11l0 22c0,6 -5,11 -11,11z"/>
+  </g>
+ </g>
+</svg>

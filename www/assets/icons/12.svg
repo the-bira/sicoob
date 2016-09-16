@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW X8 -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="32.3205mm" height="23.2304mm" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 821 590"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:#373435;fill-rule:nonzero}
+   ]]>
+  </style>
+ </defs>
+ <g id="Camada_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2870254473152">
+   <polygon class="fil0" points="821,590 744,590 744,564 795,564 795,128 128,128 128,564 180,564 180,590 103,590 103,103 821,103 "/>
+   <polygon class="fil0" points="372,590 551,590 551,564 372,564 "/>
+   <polygon class="fil0" points="115,539 51,539 51,51 769,51 769,115 744,115 744,77 77,77 77,513 115,513 "/>
+   <polygon class="fil0" points="64,487 0,487 0,0 718,0 718,64 692,64 692,26 26,26 26,462 64,462 "/>
+   <path class="fil0" d="M410 462l-205 0 0 -129c0,-28 23,-51 51,-51l0 26c-14,0 -25,11 -25,25l0 103 154 0 0 -103c0,-14 -12,-25 -26,-25l0 -26c28,0 51,23 51,51l0 129z"/>
+   <path class="fil0" d="M308 205c-21,0 -39,17 -39,39 0,21 18,38 39,38 21,0 38,-17 38,-38 0,-22 -17,-39 -38,-39zm0 103c-36,0 -64,-29 -64,-64 0,-36 28,-64 64,-64 35,0 64,28 64,64 0,35 -29,64 -64,64z"/>
+   <polygon class="fil0" points="295,359 321,359 321,333 295,333 "/>
+   <polygon class="fil0" points="295,410 321,410 321,385 295,385 "/>
+   <polygon class="fil0" points="462,359 603,359 603,333 462,333 "/>
+   <polygon class="fil0" points="462,282 718,282 718,256 462,256 "/>
+   <polygon class="fil0" points="628,359 718,359 718,333 628,333 "/>
+   <polygon class="fil0" points="462,410 718,410 718,385 462,385 "/>
+   <polygon class="fil0" points="462,462 564,462 564,436 462,436 "/>
+   <polygon class="fil0" points="577,231 603,231 603,205 577,205 "/>
+   <polygon class="fil0" points="628,231 654,231 654,205 628,205 "/>
+   <polygon class="fil0" points="526,231 551,231 551,205 526,205 "/>
+   <polygon class="fil0" points="346,590 295,590 295,564 321,564 321,539 231,539 231,564 256,564 256,590 205,590 205,513 346,513 "/>
+   <polygon class="fil0" points="718,590 667,590 667,564 692,564 692,539 603,539 603,564 628,564 628,590 577,590 577,513 718,513 "/>
+  </g>
+ </g>
+</svg>
